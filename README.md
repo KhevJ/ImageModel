@@ -1,0 +1,3 @@
+Image classifier for top views.
+It will classify top views as the ocean , agriculture, residential area and so on...
+The model has a 95 training accuracy and around a 85 testing accuracy.
